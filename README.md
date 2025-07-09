@@ -1,5 +1,5 @@
 
-# AI Chatbot Laravel Project
+# AI Chatbot Laravel Template
 
 This project is a Laravel-based AI chatbot application with user authentication, Gemini API integration, and a professional black & white theme for the frontend. It allows users to interact with an AI model (Gemini) to generate responses. This guide provides step-by-step instructions on how to set up and deploy this application.
 
@@ -21,8 +21,8 @@ This project is a Laravel-based AI chatbot application with user authentication,
 ### Step 1: Clone the Repository
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/ai-chatbot-laravel.git
-cd ai-chatbot-laravel
+git clone https://github.com/Ahmadjamil888/PREMIUM-LARAVEL-template.git
+cd project
 ```
 
 ### Step 2: Install Dependencies
