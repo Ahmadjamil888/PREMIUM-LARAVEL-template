@@ -2,14 +2,14 @@
 # Premium Laravel Template
 
 This project is a Laravel-based AI chatbot application with user authentication, Gemini API integration, and a professional black & white theme for the frontend. It allows users to interact with an AI model (Gemini) to generate responses. This guide provides step-by-step instructions on how to set up and deploy this application.
-
+<img src="https://raw.githubusercontent.com/Ahmadjamil888/PREMIUM-LARAVEL-template/refs/heads/main/Screenshot%202025-07-09%20191912.png">
 ## Features
 - User authentication (Login, Register)
 - Chat interface for users to interact with the chatbot
 - Responsive layout with a modern, professional design
 - Integration with Gemini API to generate chatbot responses
 - MySQL database for storing user data, chats, and messages
-
+<img src="https://raw.githubusercontent.com/Ahmadjamil888/PREMIUM-LARAVEL-template/refs/heads/main/Screenshot%202025-07-09%20191955.png">
 ## Requirements
 - PHP 8.1 or higher
 - Composer
